@@ -20,9 +20,9 @@
 
 | Проект | Технологии | Содержимое |
 |---|---|---|
-| [**OSPF + MPLS: мультидоменная сеть**](https://github.com/AndreiAnatolievich1/-OSPF-MPLS-DHCP-GNS3-) | Multi-Area OSPF, MPLS/LDP, NAT, DHCP, Netmiko | 10 маршрутизаторов, диагностические снимки, Python-скрипт, видеодемонстрация |
-| [**Multi-Area OSPF**](https://github.com/AndreiAnatolievich1/Multi-Area-OSPF-Laboratory-in-GNS3) | OSPF, LSA, troubleshooting | Иерархическая топология и два сценария поиска неисправностей |
-| [**Корпоративная LAN**](https://github.com/AndreiAnatolievich1/SSh_VLAN_DHCP_NAT-GNS3) | VLAN, router-on-a-stick, DHCP, NAT, SSH | Конфигурация Cisco IOS, проверки и таблица диагностики |
+| [**OSPF + MPLS: мультидоменная сеть**](https://github.com/AndreiAnatolievich1/OSPF-MPLS-DHCP-Netmiko-GNS3) | Multi-Area OSPF, MPLS/LDP, NAT, DHCP, Netmiko | 10 маршрутизаторов, диагностические снимки, Python-скрипт, видеодемонстрация |
+| [**Multi-Area OSPF**](https://github.com/AndreiAnatolievich1/Multi-Area-OSPF-GNS3) | OSPF, LSA, troubleshooting | Иерархическая топология и два сценария поиска неисправностей |
+| [**Корпоративная LAN**](https://github.com/AndreiAnatolievich1/SSH-VLAN-DHCP-NAT-GNS3) | VLAN, router-on-a-stick, DHCP, NAT, SSH | Конфигурация Cisco IOS, проверки и таблица диагностики |
 
 ## Технологии
 
